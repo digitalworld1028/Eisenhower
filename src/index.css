@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;600&display=swap');
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.text-1 {
+  font-family: "Work Sans";
+  font-style: "Regular";
+  font-size: 48px;
+  line-height: 56px;
+  /* Line height: 100%, */
+}
+
+.text-2 {
+  font-family: "Work Sans";
+  font-style: "Regular";
+  font-size: 18px;
+  line-height: 21px;
+}
+
+.text-3 {
+  font-family: "Work Sans";
+  font-style: "Regular";
+  font-size: 32px;
+  line-height: 38px;
+}
+
+.text-4 {
+  font-family: "Work Sans";
+  font-style: "SemiBold";
+  font-size: 32px;
+  line-height: 38px;
+}
+
+.text-5 {
+  font-family: "Work Sans";
+  font-style: "Regular";
+  font-size: 18px;
+  line-height: 21px
+}
+
+.text-6 {
+  font-family: "Work Sans";
+  font-style: "Regular";
+  font-size: 20px;
+  line-height: 23px;
+
+}
